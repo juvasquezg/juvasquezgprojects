@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/redmine/!svn/ver/12134/branches/2.3-stable/app/models
+END
+tracker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/tracker.rb
+END
+time_entry_activity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11835/branches/2.3-stable/app/models/time_entry_activity.rb
+END
+message_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/message_observer.rb
+END
+wiki_content.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/wiki_content.rb
+END
+workflow_rule.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/workflow_rule.rb
+END
+project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11945/branches/2.3-stable/app/models/project.rb
+END
+member.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/member.rb
+END
+document_category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/document_category.rb
+END
+custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/custom_field.rb
+END
+token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/token.rb
+END
+workflow_permission.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/workflow_permission.rb
+END
+enumeration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11835/branches/2.3-stable/app/models/enumeration.rb
+END
+attachment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/attachment.rb
+END
+issue.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/12134/branches/2.3-stable/app/models/issue.rb
+END
+group_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/group_custom_field.rb
+END
+journal_detail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/journal_detail.rb
+END
+watcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/watcher.rb
+END
+wiki_page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/wiki_page.rb
+END
+role.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/role.rb
+END
+wiki.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/wiki.rb
+END
+project_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/project_custom_field.rb
+END
+time_entry_query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/12043/branches/2.3-stable/app/models/time_entry_query.rb
+END
+custom_field_value.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/custom_field_value.rb
+END
+journal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/journal.rb
+END
+news.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/news.rb
+END
+document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/document.rb
+END
+mail_handler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11652/branches/2.3-stable/app/models/mail_handler.rb
+END
+time_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11562/branches/2.3-stable/app/models/time_entry.rb
+END
+repository.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/repository.rb
+END
+auth_source_ldap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/auth_source_ldap.rb
+END
+journal_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/journal_observer.rb
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/message.rb
+END
+document_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/document_observer.rb
+END
+change.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/change.rb
+END
+issue_category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_category.rb
+END
+board.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/board.rb
+END
+time_entry_activity_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/time_entry_activity_custom_field.rb
+END
+group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11580/branches/2.3-stable/app/models/group.rb
+END
+enabled_module.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/enabled_module.rb
+END
+changeset.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/changeset.rb
+END
+document_category_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/document_category_custom_field.rb
+END
+mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11997/branches/2.3-stable/app/models/mailer.rb
+END
+user_preference.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/12127/branches/2.3-stable/app/models/user_preference.rb
+END
+issue_query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/12062/branches/2.3-stable/app/models/issue_query.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11606/branches/2.3-stable/app/models/user.rb
+END
+principal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/principal.rb
+END
+workflow_transition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/workflow_transition.rb
+END
+issue_relation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_relation.rb
+END
+member_role.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/member_role.rb
+END
+issue_status.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_status.rb
+END
+issue_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_observer.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/comment.rb
+END
+wiki_content_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/wiki_content_observer.rb
+END
+query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11872/branches/2.3-stable/app/models/query.rb
+END
+custom_value.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/custom_value.rb
+END
+comment_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/comment_observer.rb
+END
+user_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/user_custom_field.rb
+END
+time_entry_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/time_entry_custom_field.rb
+END
+setting.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/setting.rb
+END
+auth_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/auth_source.rb
+END
+version_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/version_custom_field.rb
+END
+news_observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/news_observer.rb
+END
+wiki_redirect.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/wiki_redirect.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11837/branches/2.3-stable/app/models/version.rb
+END
+issue_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_custom_field.rb
+END
+issue_priority_custom_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_priority_custom_field.rb
+END
+issue_priority.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/models/issue_priority.rb
+END

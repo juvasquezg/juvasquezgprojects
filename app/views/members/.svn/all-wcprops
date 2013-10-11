@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members
+END
+destroy.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/destroy.js.erb
+END
+show.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/show.api.rsb
+END
+autocomplete.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/autocomplete.js.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/index.api.rsb
+END
+update.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/update.js.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/members/create.js.erb
+END

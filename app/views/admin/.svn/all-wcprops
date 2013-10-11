@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin
+END
+_no_data.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/_no_data.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/index.html.erb
+END
+projects.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/projects.html.erb
+END
+info.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/info.html.erb
+END
+plugins.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/plugins.html.erb
+END
+_menu.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/admin/_menu.html.erb
+END

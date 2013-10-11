@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11998/branches/2.3-stable/app/views/queries
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/_form.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/edit.html.erb
+END
+_filters.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11998/branches/2.3-stable/app/views/queries/_filters.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/new.html.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/index.api.rsb
+END
+_columns.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/queries/_columns.html.erb
+END

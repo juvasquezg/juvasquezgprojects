@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/views
+END
+builders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/views/builders.rb
+END
+labelled_form_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/views/labelled_form_builder.rb
+END
+api_template_handler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/views/api_template_handler.rb
+END
+other_formats_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/views/other_formats_builder.rb
+END

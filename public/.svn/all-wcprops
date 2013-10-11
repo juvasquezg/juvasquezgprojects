@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/redmine/!svn/ver/12061/branches/2.3-stable/public
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/11454/branches/2.3-stable/public/500.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/11454/branches/2.3-stable/public/404.html
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/public/favicon.ico
+END
+htaccess.fcgi.example
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/public/htaccess.fcgi.example
+END
+dispatch.fcgi.example
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/public/dispatch.fcgi.example
+END

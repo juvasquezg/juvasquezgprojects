@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures
+END
+page_versions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/page_versions.yml
+END
+authors.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/authors.yml
+END
+widget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/widget.rb
+END
+landmark.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/landmark.rb
+END
+landmarks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/landmarks.yml
+END
+page.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/page.rb
+END
+pages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/pages.yml
+END
+locked_pages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/locked_pages.yml
+END
+landmark_versions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/landmark_versions.yml
+END
+locked_pages_revisions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/acts_as_versioned/test/fixtures/locked_pages_revisions.yml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/test/extra/redmine_pm
+END
+repository_subversion_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/test/extra/redmine_pm/repository_subversion_test.rb
+END
+repository_git_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/test/extra/redmine_pm/repository_git_test.rb
+END
+test_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/extra/redmine_pm/test_case.rb
+END

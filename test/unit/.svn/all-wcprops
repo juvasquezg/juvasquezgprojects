@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/12159/branches/2.3-stable/test/unit
+END
+project_copy_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11870/branches/2.3-stable/test/unit/project_copy_test.rb
+END
+changeset_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/changeset_test.rb
+END
+role_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/role_test.rb
+END
+comment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/comment_test.rb
+END
+wiki_content_version_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/wiki_content_version_test.rb
+END
+wiki_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/wiki_test.rb
+END
+journal_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/journal_test.rb
+END
+workflow_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/workflow_test.rb
+END
+document_category_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/document_category_test.rb
+END
+default_data_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/default_data_test.rb
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/12071/branches/2.3-stable/test/unit/user_test.rb
+END
+mail_handler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11591/branches/2.3-stable/test/unit/mail_handler_test.rb
+END
+repository_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_test.rb
+END
+time_entry_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11562/branches/2.3-stable/test/unit/time_entry_test.rb
+END
+principal_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/principal_test.rb
+END
+journal_observer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/journal_observer_test.rb
+END
+auth_source_ldap_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/auth_source_ldap_test.rb
+END
+project_nested_set_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/project_nested_set_test.rb
+END
+custom_field_user_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/custom_field_user_format_test.rb
+END
+repository_filesystem_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_filesystem_test.rb
+END
+message_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/message_test.rb
+END
+wiki_redirect_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/wiki_redirect_test.rb
+END
+issue_category_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/issue_category_test.rb
+END
+attachment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/12071/branches/2.3-stable/test/unit/attachment_test.rb
+END
+issue_priority_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/issue_priority_test.rb
+END
+repository_cvs_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_cvs_test.rb
+END
+repository_darcs_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_darcs_test.rb
+END
+activity_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/activity_test.rb
+END
+group_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/group_test.rb
+END
+watcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/watcher_test.rb
+END
+wiki_content_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/wiki_content_test.rb
+END
+issue_transaction_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/issue_transaction_test.rb
+END
+wiki_page_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/wiki_page_test.rb
+END
+enabled_module_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/enabled_module_test.rb
+END
+query_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/12062/branches/2.3-stable/test/unit/query_test.rb
+END
+search_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/search_test.rb
+END
+issue_nested_set_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/12134/branches/2.3-stable/test/unit/issue_nested_set_test.rb
+END
+custom_value_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/custom_value_test.rb
+END
+project_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/project_test.rb
+END
+member_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/member_test.rb
+END
+mailer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/12125/branches/2.3-stable/test/unit/mailer_test.rb
+END
+news_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/news_test.rb
+END
+user_preference_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/12127/branches/2.3-stable/test/unit/user_preference_test.rb
+END
+custom_field_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/custom_field_test.rb
+END
+setting_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/setting_test.rb
+END
+document_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/document_test.rb
+END
+token_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/token_test.rb
+END
+repository_git_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_git_test.rb
+END
+repository_mercurial_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_mercurial_test.rb
+END
+version_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/version_test.rb
+END
+issue_relation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/12071/branches/2.3-stable/test/unit/issue_relation_test.rb
+END
+enumeration_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/enumeration_test.rb
+END
+board_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/board_test.rb
+END
+issue_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/12071/branches/2.3-stable/test/unit/issue_test.rb
+END
+project_members_inheritance_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/project_members_inheritance_test.rb
+END
+custom_field_version_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/custom_field_version_format_test.rb
+END
+issue_status_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/issue_status_test.rb
+END
+time_entry_activity_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11835/branches/2.3-stable/test/unit/time_entry_activity_test.rb
+END
+tracker_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/tracker_test.rb
+END
+repository_subversion_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_subversion_test.rb
+END
+repository_bazaar_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/repository_bazaar_test.rb
+END

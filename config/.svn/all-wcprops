@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/redmine/!svn/ver/12183/branches/2.3-stable/config
+END
+additional_environment.rb.example
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/config/additional_environment.rb.example
+END
+preinitializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/config/preinitializer.rb
+END
+database.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/config/database.yml.example
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/config/settings.yml
+END
+configuration.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11602/branches/2.3-stable/config/configuration.yml.example
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/redmine/!svn/ver/11871/branches/2.3-stable/config/routes.rb
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/config/application.rb
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/redmine/!svn/ver/11454/branches/2.3-stable/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/config/environment.rb
+END

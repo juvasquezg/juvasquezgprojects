@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/redmine/!svn/ver/12158/branches/2.3-stable/test/fixtures
+END
+custom_fields_trackers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/custom_fields_trackers.yml
+END
+user_preferences.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/user_preferences.yml
+END
+custom_fields.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/custom_fields.yml
+END
+groups_users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/groups_users.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/users.yml
+END
+tokens.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/tokens.yml
+END
+issue_relations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/issue_relations.yml
+END
+custom_fields_projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/custom_fields_projects.yml
+END
+enumerations.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/enumerations.yml
+END
+member_roles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/member_roles.yml
+END
+issues.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/issues.yml
+END
+attachments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/attachments.yml
+END
+journal_details.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/journal_details.yml
+END
+watchers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/watchers.yml
+END
+wiki_pages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/wiki_pages.yml
+END
+roles.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/roles.yml
+END
+comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/comments.yml
+END
+wikis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/wikis.yml
+END
+projects_trackers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/projects_trackers.yml
+END
+custom_values.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/custom_values.yml
+END
+journals.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/journals.yml
+END
+documents.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/documents.yml
+END
+auth_sources.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/auth_sources.yml
+END
+messages.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/messages.yml
+END
+changes.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/changes.yml
+END
+versions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/versions.yml
+END
+boards.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/boards.yml
+END
+news.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/news.yml
+END
+queries.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/queries.yml
+END
+trackers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/trackers.yml
+END
+wiki_contents.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/wiki_contents.yml
+END
+enabled_modules.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/enabled_modules.yml
+END
+issue_statuses.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/issue_statuses.yml
+END
+changesets.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11678/branches/2.3-stable/test/fixtures/changesets.yml
+END
+wiki_content_versions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/wiki_content_versions.yml
+END
+repositories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/repositories.yml
+END
+time_entries.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/time_entries.yml
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/projects.yml
+END
+members.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/members.yml
+END
+workflows.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/workflows.yml
+END
+issue_categories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/issue_categories.yml
+END

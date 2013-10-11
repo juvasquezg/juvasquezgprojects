@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/context_menus
+END
+time_entries.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/context_menus/time_entries.html.erb
+END
+issues.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/context_menus/issues.html.erb
+END

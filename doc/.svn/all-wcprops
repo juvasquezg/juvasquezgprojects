@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/redmine/!svn/ver/12136/branches/2.3-stable/doc
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/redmine/!svn/ver/11756/branches/2.3-stable/doc/INSTALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/redmine/!svn/ver/12136/branches/2.3-stable/doc/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/redmine/!svn/ver/11454/branches/2.3-stable/doc/COPYING
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/redmine/!svn/ver/11658/branches/2.3-stable/doc/UPGRADING
+END
+RUNNING_TESTS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11454/branches/2.3-stable/doc/RUNNING_TESTS
+END
+README_FOR_APP
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/doc/README_FOR_APP
+END

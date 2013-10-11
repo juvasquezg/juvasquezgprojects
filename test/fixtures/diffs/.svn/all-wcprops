@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/12055/branches/2.3-stable/test/fixtures/diffs
+END
+issue-12641-ja.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11552/branches/2.3-stable/test/fixtures/diffs/issue-12641-ja.diff
+END
+partials.diff
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/diffs/partials.diff
+END
+subversion.diff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/diffs/subversion.diff
+END
+issue-13644-1.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11710/branches/2.3-stable/test/fixtures/diffs/issue-13644-1.diff
+END
+issue-13644-2.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11710/branches/2.3-stable/test/fixtures/diffs/issue-13644-2.diff
+END
+issue-12641-ru.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11552/branches/2.3-stable/test/fixtures/diffs/issue-12641-ru.diff
+END
+issue-13644-3.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/12055/branches/2.3-stable/test/fixtures/diffs/issue-13644-3.diff
+END
+issue-13644-4.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/12055/branches/2.3-stable/test/fixtures/diffs/issue-13644-4.diff
+END
+issue-13644-5.diff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/12055/branches/2.3-stable/test/fixtures/diffs/issue-13644-5.diff
+END

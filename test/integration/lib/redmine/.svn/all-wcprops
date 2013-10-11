@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/lib/redmine
+END
+themes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/lib/redmine/themes_test.rb
+END
+menu_manager_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/lib/redmine/menu_manager_test.rb
+END
+hook_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/lib/redmine/hook_test.rb
+END

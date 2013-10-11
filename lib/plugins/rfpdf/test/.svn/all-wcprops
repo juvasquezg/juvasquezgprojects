@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/test/test_helper.rb
+END

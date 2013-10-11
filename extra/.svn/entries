@@ -1,0 +1,37 @@
+10
+
+dir
+12204
+http://svn.redmine.org/redmine/branches/2.3-stable/extra
+http://svn.redmine.org/redmine
+
+
+
+2013-03-11T18:00:39.601353Z
+11591
+jplang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+svn
+dir
+
+mail_handler
+dir
+
+sample_plugin
+dir
+

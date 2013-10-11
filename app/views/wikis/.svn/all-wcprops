@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/wikis
+END
+destroy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/wikis/destroy.html.erb
+END
+edit.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/wikis/edit.js.erb
+END

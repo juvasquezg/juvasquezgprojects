@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/template_handler
+END
+compile_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/template_handler/compile_support.rb
+END

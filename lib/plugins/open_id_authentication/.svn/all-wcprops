@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/open_id_authentication
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/open_id_authentication/README
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/open_id_authentication/Rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/open_id_authentication/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/open_id_authentication/CHANGELOG
+END

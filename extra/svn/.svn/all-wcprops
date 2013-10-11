@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/svn
+END
+Redmine.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/svn/Redmine.pm
+END
+reposman.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/svn/reposman.rb
+END

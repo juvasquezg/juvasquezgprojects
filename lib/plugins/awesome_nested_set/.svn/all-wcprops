@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/README.rdoc
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/init.rb
+END
+.autotest
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/.autotest
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/.travis.yml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/CHANGELOG
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/MIT-LICENSE
+END
+awesome_nested_set.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/awesome_nested_set.gemspec
+END

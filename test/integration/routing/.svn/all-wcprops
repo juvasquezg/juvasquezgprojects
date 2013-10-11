@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing
+END
+mail_handler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/mail_handler_test.rb
+END
+watchers_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/watchers_test.rb
+END
+auto_completes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/auto_completes_test.rb
+END
+roles_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/roles_test.rb
+END
+my_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/my_test.rb
+END
+comments_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/comments_test.rb
+END
+wikis_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/wikis_test.rb
+END
+admin_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/admin_test.rb
+END
+account_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/account_test.rb
+END
+calendars_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/calendars_test.rb
+END
+journals_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/journals_test.rb
+END
+project_enumerations_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/project_enumerations_test.rb
+END
+settings_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/settings_test.rb
+END
+documents_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/documents_test.rb
+END
+previews_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/previews_test.rb
+END
+auth_sources_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/auth_sources_test.rb
+END
+search_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/search_test.rb
+END
+messages_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/messages_test.rb
+END
+versions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/versions_test.rb
+END
+boards_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/boards_test.rb
+END
+news_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/news_test.rb
+END
+queries_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/queries_test.rb
+END
+sys_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/sys_test.rb
+END
+trackers_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/trackers_test.rb
+END
+groups_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/groups_test.rb
+END
+issue_statuses_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/issue_statuses_test.rb
+END
+repositories_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/repositories_test.rb
+END
+projects_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/projects_test.rb
+END
+members_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/members_test.rb
+END
+context_menus_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/context_menus_test.rb
+END
+welcome_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/welcome_test.rb
+END
+workflows_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/workflows_test.rb
+END
+issue_categories_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/issue_categories_test.rb
+END
+reports_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/reports_test.rb
+END
+custom_fields_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/custom_fields_test.rb
+END
+gantts_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/gantts_test.rb
+END
+timelog_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/timelog_test.rb
+END
+users_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/users_test.rb
+END
+files_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/files_test.rb
+END
+wiki_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/wiki_test.rb
+END
+activities_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/activities_test.rb
+END
+issue_relations_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/issue_relations_test.rb
+END
+enumerations_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/enumerations_test.rb
+END
+issues_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/issues_test.rb
+END
+attachments_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/test/integration/routing/attachments_test.rb
+END

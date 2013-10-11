@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/redmine/!svn/ver/11551/branches/2.3-stable/app/views/common
+END
+_preview.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/_preview.html.erb
+END
+error_messages.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/error_messages.api.rsb
+END
+_diff.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11551/branches/2.3-stable/app/views/common/_diff.html.erb
+END
+_calendar.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/_calendar.html.erb
+END
+_tabs.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/_tabs.html.erb
+END
+error.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/error.html.erb
+END
+feed.atom.builder
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/feed.atom.builder
+END
+_file.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/common/_file.html.erb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/core
+END
+image_science.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/core/image_science.rb
+END
+rmagick.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/core/rmagick.rb
+END
+rfpdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/core/rfpdf.rb
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler
+END
+ticket_with_long_subject.eml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_long_subject.eml
+END
+ticket_from_emission_address.eml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_from_emission_address.eml
+END
+ticket_with_cc.eml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_cc.eml
+END
+japanese_keywords_iso_2022_jp.eml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/japanese_keywords_iso_2022_jp.eml
+END
+subject_japanese_1.eml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/subject_japanese_1.eml
+END
+subject_japanese_2.eml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/subject_japanese_2.eml
+END
+thunderbird_with_attachment_ja.eml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/thunderbird_with_attachment_ja.eml
+END
+ticket_by_empty_user.eml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_by_empty_user.eml
+END
+ticket_with_invalid_attributes.eml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_invalid_attributes.eml
+END
+ticket_by_unknown_user.eml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_by_unknown_user.eml
+END
+ticket_without_from_header.eml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_without_from_header.eml
+END
+fullname_of_sender_as_utf8_encoded.eml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/fullname_of_sender_as_utf8_encoded.eml
+END
+subject_as_iso-8859-1.eml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/subject_as_iso-8859-1.eml
+END
+ticket_html_only.eml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_html_only.eml
+END
+issue_update_with_multiple_quoted_reply_above.eml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/issue_update_with_multiple_quoted_reply_above.eml
+END
+message_reply_by_subject.eml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/message_reply_by_subject.eml
+END
+ticket_with_spaces_between_attribute_and_separator.eml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_spaces_between_attribute_and_separator.eml
+END
+ticket_with_localized_attributes.eml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_localized_attributes.eml
+END
+gmail_with_attachment_iso-8859-1.eml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/gmail_with_attachment_iso-8859-1.eml
+END
+ticket_with_attributes.eml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_attributes.eml
+END
+ticket_with_attachment.eml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_attachment.eml
+END
+ticket_reply_with_status.eml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_reply_with_status.eml
+END
+ticket_on_given_project.eml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_on_given_project.eml
+END
+issue_update_with_quoted_reply_above.eml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/issue_update_with_quoted_reply_above.eml
+END
+ticket_with_custom_fields.eml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_with_custom_fields.eml
+END
+ticket_reply.eml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/ticket_reply.eml
+END
+message_reply.eml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/message_reply.eml
+END
+thunderbird_with_attachment_iso-8859-1.eml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/thunderbird_with_attachment_iso-8859-1.eml
+END
+no_subject_header.eml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/no_subject_header.eml
+END
+apple_mail_with_attachment.eml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/apple_mail_with_attachment.eml
+END
+gmail_with_attachment_ja.eml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/test/fixtures/mail_handler/gmail_with_attachment_ja.eml
+END

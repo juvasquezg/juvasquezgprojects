@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont/ChangeLog
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/freefont/README
+END

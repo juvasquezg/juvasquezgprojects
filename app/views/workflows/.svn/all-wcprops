@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/_form.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/index.html.erb
+END
+copy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/copy.html.erb
+END
+permissions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/permissions.html.erb
+END
+_action_menu.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/workflows/_action_menu.html.erb
+END

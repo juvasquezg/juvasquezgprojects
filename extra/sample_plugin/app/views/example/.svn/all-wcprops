@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/app/views/example
+END
+say_goodbye.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/app/views/example/say_goodbye.html.erb
+END
+say_hello.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/app/views/example/say_hello.html.erb
+END

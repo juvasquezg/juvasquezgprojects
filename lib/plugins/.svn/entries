@@ -1,0 +1,67 @@
+10
+
+dir
+12204
+http://svn.redmine.org/redmine/branches/2.3-stable/lib/plugins
+http://svn.redmine.org/redmine
+
+
+
+2013-09-30T12:22:26.222711Z
+12191
+tmaruyama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+acts_as_attachable
+dir
+
+acts_as_searchable
+dir
+
+acts_as_watchable
+dir
+
+gravatar
+dir
+
+acts_as_list
+dir
+
+acts_as_versioned
+dir
+
+acts_as_tree
+dir
+
+open_id_authentication
+dir
+
+awesome_nested_set
+dir
+
+acts_as_customizable
+dir
+
+acts_as_event
+dir
+
+rfpdf
+dir
+
+acts_as_activity_provider
+dir
+

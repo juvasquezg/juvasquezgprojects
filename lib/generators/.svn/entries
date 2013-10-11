@@ -1,0 +1,37 @@
+10
+
+dir
+12204
+http://svn.redmine.org/redmine/branches/2.3-stable/lib/generators
+http://svn.redmine.org/redmine
+
+
+
+2013-02-03T08:46:40.135523Z
+11314
+tmaruyama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+redmine_plugin_controller
+dir
+
+redmine_plugin
+dir
+
+redmine_plugin_model
+dir
+

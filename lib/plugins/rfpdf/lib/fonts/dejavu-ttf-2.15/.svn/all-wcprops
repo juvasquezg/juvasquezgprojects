@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/AUTHORS
+END
+unicover.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/unicover.txt
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/README
+END
+langcover.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/langcover.txt
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/BUGS
+END
+status.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/dejavu-ttf-2.15/status.txt
+END

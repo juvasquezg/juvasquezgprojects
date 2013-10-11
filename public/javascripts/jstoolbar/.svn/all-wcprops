@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11703/branches/2.3-stable/public/javascripts/jstoolbar
+END
+jstoolbar-textile.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/!svn/ver/11454/branches/2.3-stable/public/javascripts/jstoolbar/jstoolbar-textile.min.js
+END
+textile.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/public/javascripts/jstoolbar/textile.js
+END
+jstoolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/public/javascripts/jstoolbar/jstoolbar.js
+END

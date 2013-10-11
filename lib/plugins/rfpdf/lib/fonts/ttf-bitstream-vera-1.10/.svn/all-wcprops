@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/ttf-bitstream-vera-1.10
+END
+COPYRIGHT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/ttf-bitstream-vera-1.10/COPYRIGHT.TXT
+END
+RELEASENOTES.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/ttf-bitstream-vera-1.10/RELEASENOTES.TXT
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/ttf-bitstream-vera-1.10/README.TXT
+END
+local.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/fonts/ttf-bitstream-vera-1.10/local.conf
+END

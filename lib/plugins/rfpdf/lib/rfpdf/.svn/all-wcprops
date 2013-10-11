@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf
+END
+math.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/math.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/errors.rb
+END
+fpdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/fpdf.rb
+END
+action_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/action_controller.rb
+END
+action_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/rfpdf/lib/rfpdf/action_view.rb
+END

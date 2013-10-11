@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/USAGE
+END
+redmine_plugin_model_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/redmine_plugin_model_generator.rb
+END

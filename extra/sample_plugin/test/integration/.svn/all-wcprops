@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/test/integration
+END
+routing_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/test/integration/routing_test.rb
+END

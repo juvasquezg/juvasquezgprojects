@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/create.js.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/new.js.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/_form.html.erb
+END
+show.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/show.api.rsb
+END
+_new_modal.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/_new_modal.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/edit.html.erb
+END
+destroy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/destroy.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/new.html.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/issue_categories/index.api.rsb
+END

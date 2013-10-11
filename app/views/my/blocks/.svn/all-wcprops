@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11583/branches/2.3-stable/app/views/my/blocks
+END
+_issuesassignedtome.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_issuesassignedtome.html.erb
+END
+_timelog.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11583/branches/2.3-stable/app/views/my/blocks/_timelog.html.erb
+END
+_documents.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_documents.html.erb
+END
+_calendar.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_calendar.html.erb
+END
+_issueswatched.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_issueswatched.html.erb
+END
+_news.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_news.html.erb
+END
+_issuesreportedbyme.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/my/blocks/_issuesreportedbyme.html.erb
+END

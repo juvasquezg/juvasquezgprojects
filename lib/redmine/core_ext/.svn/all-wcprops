@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/core_ext
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/core_ext/active_record.rb
+END
+date.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/core_ext/date.rb
+END
+string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/core_ext/string.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11769/branches/2.3-stable/lib/redmine/helpers
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/helpers/diff.rb
+END
+calendar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/helpers/calendar.rb
+END
+time_report.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11565/branches/2.3-stable/lib/redmine/helpers/time_report.rb
+END
+gantt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11769/branches/2.3-stable/lib/redmine/helpers/gantt.rb
+END

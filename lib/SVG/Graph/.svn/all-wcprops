@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/redmine/!svn/ver/12053/branches/2.3-stable/lib/SVG/Graph
+END
+Graph.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/12053/branches/2.3-stable/lib/SVG/Graph/Graph.rb
+END
+Bar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/Bar.rb
+END
+Line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/Line.rb
+END
+TimeSeries.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/TimeSeries.rb
+END
+Schedule.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/Schedule.rb
+END
+Pie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/Pie.rb
+END
+BarHorizontal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/BarHorizontal.rb
+END
+Plot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/Plot.rb
+END
+BarBase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/SVG/Graph/BarBase.rb
+END

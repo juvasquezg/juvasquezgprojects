@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/12078/branches/2.3-stable/lib/tasks
+END
+yardoc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/yardoc.rake
+END
+locales.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/locales.rake
+END
+redmine.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/redmine.rake
+END
+migrate_from_trac.rake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/migrate_from_trac.rake
+END
+migrate_from_mantis.rake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/migrate_from_mantis.rake
+END
+email.rake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/!svn/ver/11749/branches/2.3-stable/lib/tasks/email.rake
+END
+ci.rake
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/ci.rake
+END
+deprecated.rake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/deprecated.rake
+END
+jdbc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/jdbc.rake
+END
+extract_fixtures.rake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/extract_fixtures.rake
+END
+reminder.rake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/reminder.rake
+END
+metrics.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/metrics.rake
+END
+initializers.rake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/initializers.rake
+END
+ciphering.rake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/ciphering.rake
+END
+permissions.rake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/permissions.rake
+END
+load_default_data.rake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/12078/branches/2.3-stable/lib/tasks/load_default_data.rake
+END
+testing.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/tasks/testing.rake
+END

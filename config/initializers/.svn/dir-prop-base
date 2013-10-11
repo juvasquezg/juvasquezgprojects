@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 33
+session_store.rb
+secret_token.rb
+
+END

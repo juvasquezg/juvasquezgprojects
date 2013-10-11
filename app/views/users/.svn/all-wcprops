@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/11997/branches/2.3-stable/app/views/users
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/index.html.erb
+END
+edit_membership.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/edit_membership.js.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/new.html.erb
+END
+_mail_notifications.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11997/branches/2.3-stable/app/views/users/_mail_notifications.html.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/index.api.rsb
+END
+_general.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/_general.html.erb
+END
+destroy_membership.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/destroy_membership.js.erb
+END
+_memberships.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/_memberships.html.erb
+END
+_groups.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/_groups.html.erb
+END
+_preferences.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/_preferences.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/show.html.erb
+END
+_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/users/_form.html.erb
+END
+show.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/11570/branches/2.3-stable/app/views/users/show.api.rsb
+END

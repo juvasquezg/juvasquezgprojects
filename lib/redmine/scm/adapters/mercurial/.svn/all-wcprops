@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/scm/adapters/mercurial
+END
+redminehelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/scm/adapters/mercurial/redminehelper.py
+END
+hg-template-1.0.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/redmine/scm/adapters/mercurial/hg-template-1.0.tmpl
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/app/views/settings
+END
+_sample_plugin_settings.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/redmine/!svn/ver/11454/branches/2.3-stable/extra/sample_plugin/app/views/settings/_sample_plugin_settings.html.erb
+END

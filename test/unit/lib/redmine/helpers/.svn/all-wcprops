@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/helpers
+END
+calendar_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/helpers/calendar_test.rb
+END
+gantt_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/helpers/gantt_test.rb
+END

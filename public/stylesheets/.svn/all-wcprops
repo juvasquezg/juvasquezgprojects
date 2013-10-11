@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/12061/branches/2.3-stable/public/stylesheets
+END
+rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/public/stylesheets/rtl.css
+END
+scm.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/11454/branches/2.3-stable/public/stylesheets/scm.css
+END
+application.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/12061/branches/2.3-stable/public/stylesheets/application.css
+END
+context_menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/public/stylesheets/context_menu.css
+END
+context_menu_rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/public/stylesheets/context_menu_rtl.css
+END
+jstoolbar.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/public/stylesheets/jstoolbar.css
+END

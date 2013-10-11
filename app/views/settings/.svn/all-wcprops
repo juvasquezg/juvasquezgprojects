@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings
+END
+_general.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_general.html.erb
+END
+_authentication.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_authentication.html.erb
+END
+_mail_handler.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_mail_handler.html.erb
+END
+plugin.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/plugin.html.erb
+END
+_display.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_display.html.erb
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/edit.html.erb
+END
+_repositories.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_repositories.html.erb
+END
+_notifications.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_notifications.html.erb
+END
+_projects.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_projects.html.erb
+END
+_issues.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/app/views/settings/_issues.html.erb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/templates
+END
+unit_test.rb.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/templates/unit_test.rb.erb
+END
+model.rb.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/templates/model.rb.erb
+END
+migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/generators/redmine_plugin_model/templates/migration.rb
+END

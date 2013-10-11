@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/redmine/!svn/ver/11454/branches/2.3-stable/test/mocks
+END
+open_id_authentication_mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/mocks/open_id_authentication_mock.rb
+END

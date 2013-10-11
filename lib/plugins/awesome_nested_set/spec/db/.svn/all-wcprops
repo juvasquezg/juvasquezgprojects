@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/spec/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/spec/db/schema.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/spec/db/database.yml
+END

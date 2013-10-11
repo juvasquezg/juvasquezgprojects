@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/redmine/!svn/ver/12160/branches/2.3-stable/test
+END
+object_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/11837/branches/2.3-stable/test/object_helpers.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/11454/branches/2.3-stable/test/test_helper.rb
+END

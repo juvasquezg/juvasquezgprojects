@@ -1,0 +1,160 @@
+10
+
+dir
+12204
+http://svn.redmine.org/redmine/branches/2.3-stable/app/views
+http://svn.redmine.org/redmine
+
+
+
+2013-09-19T03:53:31.257496Z
+12160
+tmaruyama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+account
+dir
+
+calendars
+dir
+
+journals
+dir
+
+settings
+dir
+
+documents
+dir
+
+previews
+dir
+
+auth_sources
+dir
+
+search
+dir
+
+messages
+dir
+
+versions
+dir
+
+mailer
+dir
+
+boards
+dir
+
+news
+dir
+
+queries
+dir
+
+trackers
+dir
+
+groups
+dir
+
+issue_statuses
+dir
+
+repositories
+dir
+
+common
+dir
+
+projects
+dir
+
+members
+dir
+
+context_menus
+dir
+
+welcome
+dir
+
+workflows
+dir
+
+issue_categories
+dir
+
+reports
+dir
+
+layouts
+dir
+
+custom_fields
+dir
+
+timelog
+dir
+
+gantts
+dir
+
+users
+dir
+
+files
+dir
+
+wiki
+dir
+
+activities
+dir
+
+issue_relations
+dir
+
+enumerations
+dir
+
+attachments
+dir
+
+issues
+dir
+
+watchers
+dir
+
+auto_completes
+dir
+
+roles
+dir
+
+my
+dir
+
+wikis
+dir
+
+admin
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/11998/branches/2.3-stable/test/unit/helpers
+END
+application_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11998/branches/2.3-stable/test/unit/helpers/application_helper_test.rb
+END
+activities_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/activities_helper_test.rb
+END
+search_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/search_helper_test.rb
+END
+sort_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/sort_helper_test.rb
+END
+projects_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/projects_helper_test.rb
+END
+issues_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/issues_helper_test.rb
+END
+queries_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/queries_helper_test.rb
+END
+custom_fields_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/custom_fields_helper_test.rb
+END
+timelog_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/timelog_helper_test.rb
+END
+watchers_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/helpers/watchers_helper_test.rb
+END

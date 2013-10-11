@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/12159/branches/2.3-stable/test/unit/lib/redmine/scm/adapters
+END
+bazaar_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/bazaar_adapter_test.rb
+END
+git_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/12159/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/git_adapter_test.rb
+END
+mercurial_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/mercurial_adapter_test.rb
+END
+filesystem_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/filesystem_adapter_test.rb
+END
+cvs_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/12065/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/cvs_adapter_test.rb
+END
+darcs_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/darcs_adapter_test.rb
+END
+subversion_adapter_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/scm/adapters/subversion_adapter_test.rb
+END

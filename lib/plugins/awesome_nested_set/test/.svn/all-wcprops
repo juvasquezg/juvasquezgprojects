@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/test
+END
+awesome_nested_set_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/test/awesome_nested_set_test.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/redmine/!svn/ver/11454/branches/2.3-stable/lib/plugins/awesome_nested_set/test/test_helper.rb
+END

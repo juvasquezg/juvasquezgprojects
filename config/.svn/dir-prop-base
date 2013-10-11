@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 67
+database.yml
+email.yml
+configuration.yml
+additional_environment.rb
+
+END

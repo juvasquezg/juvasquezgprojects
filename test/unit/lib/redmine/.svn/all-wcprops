@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/!svn/ver/12159/branches/2.3-stable/test/unit/lib/redmine
+END
+pagination_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/pagination_helper_test.rb
+END
+mime_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/mime_type_test.rb
+END
+pagination_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/pagination_test.rb
+END
+info_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/info_test.rb
+END
+wiki_formatting_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/wiki_formatting_test.rb
+END
+plugin_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/plugin_test.rb
+END
+menu_manager_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/menu_manager_test.rb
+END
+hook_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/hook_test.rb
+END
+access_control_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/access_control_test.rb
+END
+configuration_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/configuration_test.rb
+END
+ciphering_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/ciphering_test.rb
+END
+unified_diff_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/12054/branches/2.3-stable/test/unit/lib/redmine/unified_diff_test.rb
+END
+notifiable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/notifiable_test.rb
+END
+i18n_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/i18n_test.rb
+END
+codeset_util_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/codeset_util_test.rb
+END
+safe_attributes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/safe_attributes_test.rb
+END
+themes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/11454/branches/2.3-stable/test/unit/lib/redmine/themes_test.rb
+END
