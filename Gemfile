@@ -26,6 +26,9 @@ platforms :mri, :mingw do
     # different requirements for the same gem on different platforms
     gem "rmagick", ">= 2.0.0"
   end
+  group :production do
+    gem "pg", ">= 0.11.0"
+  end
 end
 
 platforms :jruby do
