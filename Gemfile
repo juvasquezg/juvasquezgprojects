@@ -26,7 +26,10 @@ platforms :mri, :mingw do
     # different requirements for the same gem on different platforms
     gem "rmagick", ">= 2.0.0"
   end
-  group :production do
+ end
+
+platforms :mri, :mingw do
+  group :postgresql do
     gem "pg", ">= 0.11.0"
   end
 end
@@ -36,7 +39,6 @@ platforms :jruby do
   gem "jruby-openssl" if Object.const_defined?(:JRUBY_VERSION) && JRUBY_VERSION < '1.7.0'
   gem "activerecord-jdbc-adapter", "~> 1.2.6"
 end
-
 # Include database gems for the adapters found in the database
 # configuration file
 require 'erb'
