@@ -4,8 +4,6 @@
 
 /config/database.yml
 
-
-
 /coverage
 /db/*.db
 /db/*.sqlite3

@@ -29,7 +29,7 @@ platforms :mri, :mingw do
  end
 
 platforms :mri, :mingw do
-  group :postgresql do
+  group :production do
     gem "pg", ">= 0.11.0"
   end
 end
