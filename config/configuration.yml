@@ -1,0 +1,10 @@
+production:
+  delivery_method: :smtp
+  smtp_settings:
+    address: "smtp.google.com"
+    port: "587"
+    authentication: :plain
+    domain: "smt.google.com"
+    user_name: "juvasquez88@gmail.com"
+    password: "vaquerini662343"
+
