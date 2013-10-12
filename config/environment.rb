@@ -10,5 +10,15 @@ if Dir.glob(File.join(vendor_plugins_dir, "*")).any?
   #exit 1
 end
 
+ActionMailer::Base.smtp_settings = {
+    :tls => true,
+    :address => "smtp.gmail.com",
+    :port => "587",
+    :domain => "smtp.gmail.com",
+    :authentication => :plain,
+    :user_name => "juvasquez88@gmail.com",
+    :password => "vaquerini662343" 
+ }
+
 # Initialize the rails application
 RedmineApp::Application.initialize!
