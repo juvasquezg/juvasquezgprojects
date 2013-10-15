@@ -2,10 +2,10 @@ production:
   delivery_method: :smtp
   smtp_settings:
     enable_starttls_auto: true
-    address: smtp.google.com
+    address: smtp.gmail.com
     port: 587
     authentication: :plain
-    domain: "smtp.google.com"
+    domain: "smtp.gmail.com"
     user_name: "julian.vasquez@netuxtecnologia.com"
     password: vaquerini662343
 
