@@ -6,6 +6,6 @@ production:
     port: 587
     authentication: :plain
     domain: "smtp.gmail.com"
-    user_name: "julian.vasquez@netuxtecnologia.com"
+    user_name: "juvasquez88@gmail.com"
     password: vaquerini662343
 
