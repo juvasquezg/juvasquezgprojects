@@ -1,7 +1,7 @@
 production:
   delivery_method: :smtp
   smtp_settings:
-    enable_starttls_auto: true
+    enable_starttls_auto: false
     address: 173.194.68.109
     port: 587
     authentication: :plain
