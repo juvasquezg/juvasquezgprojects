@@ -2,7 +2,7 @@ production:
   delivery_method: :smtp
   smtp_settings:
     enable_starttls_auto: true
-    address: "smtp.gmail.com"
+    address: 173.194.68.109
     port: 587
     authentication: :plain
     domain: "smtp.gmail.com"
